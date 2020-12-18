@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Currency Converter
+![Alt text](src/black1.png)
 
 Currency converter app using ReactJS/ES6
 
